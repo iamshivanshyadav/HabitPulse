@@ -1,0 +1,33 @@
+footer {
+    background-color:#b32960;
+  margin-top: 5px;
+  padding: 0 20px;
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-size: 15px;
+  word-spacing: 3px;
+  line-height: 35px;
+  color: blue;
+}
+
+/* Styling for footer links */
+footer a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #301934;
+}
+
+/* Hover effect for footer links */
+footer a:hover {
+  color: #00008b;
+}
+
+/* Styling for the footer text indicating the creator */
+footer span {
+  background: transparent;
+  font-size: 20px;
+  color: #301934;
+}
