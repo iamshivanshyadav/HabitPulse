@@ -3,7 +3,7 @@
 
 ## Overview
 
-Habit Tracker is a Node.js web application that helps users track their habits and manage their daily routines effectively. This project provides a user-friendly interface to add, remove, and toggle the status of habits, as well as keep them as favorites.
+Habit Pulse is a Node.js web application that helps users track their habits and manage their daily routines effectively. This project provides a user-friendly interface to add, remove, and toggle the status of habits, as well as keep them as favorites.
 
 ## Table of Contents
 
